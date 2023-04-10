@@ -1,0 +1,10 @@
+# video tutorial
+# https://www.youtube.com/watch?v=7YS6YDQKFh0&ab_channel=TechWithTim
+# pip install openpyxl
+# alternatively
+# pip3 install openpyxl
+# python -m pip install openpyxl
+# python3 -m pip install openpyxl
+
+#Documentation
+# https://openpyxl.readthedocs.io/en/stable/
